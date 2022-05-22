@@ -1,6 +1,6 @@
 ### Hi there, I'm Hanan 👋
 
-## I'm a Junior Full-Stack and Software Developer
+## I'm a Full-Stack and Software Developer
 
 - 🎓 I’m currently learning the latest languages ​​and technologies ! 🎓
 - 📈 I’m always looking to learn and get better ! 📈
